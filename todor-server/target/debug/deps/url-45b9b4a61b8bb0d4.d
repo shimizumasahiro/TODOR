@@ -1,0 +1,11 @@
+/Users/shimizumasahiro/dev/TODOR/todor-server/target/debug/deps/liburl-45b9b4a61b8bb0d4.rmeta: /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/lib.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/host.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/origin.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/parser.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/path_segments.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/slicing.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/quirks.rs
+
+/Users/shimizumasahiro/dev/TODOR/todor-server/target/debug/deps/url-45b9b4a61b8bb0d4.d: /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/lib.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/host.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/origin.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/parser.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/path_segments.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/slicing.rs /Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/quirks.rs
+
+/Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/lib.rs:
+/Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/host.rs:
+/Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/origin.rs:
+/Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/parser.rs:
+/Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/path_segments.rs:
+/Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/slicing.rs:
+/Users/shimizumasahiro/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.3/src/quirks.rs:

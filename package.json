@@ -1,0 +1,13 @@
+{
+  "name": "TODOR",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"PORT=3001 npm start --prefix todor-front\" \"cargo run --manifest-path todor-server/Cargo.toml\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  },
+  "dependencies": {
+    "uuid": "^11.0.3"
+  }
+}
